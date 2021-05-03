@@ -1,2 +1,2 @@
 ﻿# Excel-templates
-for informative purposes only
+## This files are for informative purposes only
